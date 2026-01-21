@@ -1,75 +1,64 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Maryam+Fatima;Software+Engineer+%7C+AI+Enthusiast;Flutter+%7C+Web+Development+%7C+Machine+Learning" />
-
-<br/>
-
-### 🎓 BS Software Engineering  
-📍 Pakistan  
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Maryam%20Fatima&fontSize=40&fontColor=58A6FF&desc=Software%20Engineer%20|%20Flutter%20|%20Web%20|%20AI&descAlignY=65&descAlign=50"/>
 
 ---
 
-## 👩‍💻 Professional Summary
+## 👩‍💻 About Me
 
-I am **Maryam Fatima**, a dedicated **Software Engineering student** and **AI enthusiast** with strong interest in building **scalable, user-centric applications**.
+I am **Maryam Fatima**, a **Software Engineering student** with a strong passion for  
+**building real-world applications** and exploring **Artificial Intelligence**.
 
-I enjoy transforming ideas into functional digital solutions using **modern development tools**, and I continuously work on improving my problem-solving and engineering skills.
-
-My focus areas include:
-- Full-stack application development  
-- Mobile app development using Flutter  
-- Artificial Intelligence & Machine Learning fundamentals  
+I focus on writing clean code, learning modern technologies,  
+and continuously improving my development skills.
 
 ---
 
-## 🧩 Core Skills & Expertise
+## 🎯 Specializations
 
-### 📱 Mobile Development
-- Flutter  
-- Dart  
-- UI/UX focused mobile design  
-
-### 🌐 Web Development
-- HTML5, CSS3  
-- JavaScript (ES6+)  
-- React  
-- Responsive & component-based design  
-
-### 🤖 Artificial Intelligence
-- Machine Learning concepts  
-- Computer Vision basics  
-- Model understanding & experimentation  
-
-### 🛠️ Tools & Platforms
-- Git & GitHub  
-- Firebase  
-- REST APIs  
-- VS Code  
+- 📱 Flutter Mobile Application Development  
+- 🌐 Web Development (Frontend focused)  
+- 🤖 Artificial Intelligence & Machine Learning (Foundations)  
 
 ---
 
-## 🚀 Selected Projects
+## 🛠️ Tech Stack
 
-### 💼 Invoice SaaS System  
-A web-based invoicing platform focused on clean UI and efficient workflow management.
-
-### 💸 Expense Tracker Application  
-A personal finance tracking app with category-based expense management.
-
-### 🏫 School Management System  
-A structured system for managing students, staff, and academic records.
-
-### 📱 Flutter UI Projects  
-Multiple Flutter projects focusing on modern UI, clean navigation, and performance.
+**Mobile:** Flutter, Dart  
+**Web:** HTML, CSS, JavaScript, React  
+**AI:** Machine Learning, Computer Vision  
+**Tools:** Git, GitHub, Firebase, REST APIs  
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Projects Showcase
+
+### 💼 Invoice SaaS System
+🔗 https://github.com/maryam-ca/invoice-saas  
+A web-based invoicing system focused on simplicity, scalability, and clean UI.
+
+---
+
+### 💸 Expense Tracker App
+🔗 https://github.com/maryam-ca/expense_tracker  
+A personal finance app to manage daily expenses with category-wise tracking.
+
+---
+
+### 🏫 School Management System
+🔗 https://github.com/maryam-ca/School-Management-System  
+A structured academic management system for students, staff, and records.
+
+---
+
+### 📱 Flutter UI Collection
+🔗 https://github.com/maryam-ca  
+A collection of Flutter projects showcasing modern UI designs and navigation.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maryam-ca&show_icons=true&hide_title=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maryam-ca&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -82,7 +71,7 @@ Multiple Flutter projects focusing on modern UI, clean navigation, and performan
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 - 📧 Email: **minhas1405@gmail.com**  
 - 💼 GitHub: https://github.com/maryam-ca  
@@ -91,9 +80,8 @@ Multiple Flutter projects focusing on modern UI, clean navigation, and performan
 
 <div align="center">
 
-✨ *Focused on learning, building, and growing as a software engineer.* ✨  
+✨ *Building today. Preparing for tomorrow.* ✨  
 
 <img src="https://komarev.com/ghpvc/?username=maryam-ca&color=58A6FF"/>
 
 </div>
-
