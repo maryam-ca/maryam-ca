@@ -1,78 +1,75 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Maryam+Fatima;Software+Developer+%26+AI+Enthusiast;Flutter+%7C+Web+%7C+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Maryam+Fatima;Software+Engineer+%7C+AI+Enthusiast;Flutter+%7C+Web+Development+%7C+Machine+Learning" />
 
----
+<br/>
 
-## 👩‍💻 Maryam Fatima  
 ### 🎓 BS Software Engineering  
-
-<p align="center">
-💡 Passionate about building impactful software and learning modern technologies.
-</p>
-
----
+📍 Pakistan  
 
 </div>
 
 ---
 
-## 🌸 About Me
+## 👩‍💻 Professional Summary
 
-I am **Maryam Fatima**, a passionate **Software Developer** and **AI enthusiast**.  
-I love building useful applications, exploring new technologies, and improving my skills every day.
+I am **Maryam Fatima**, a dedicated **Software Engineering student** and **AI enthusiast** with strong interest in building **scalable, user-centric applications**.
 
-### 💼 I work on:
-- 🌐 Web Development  
-- 📱 Flutter & Mobile Applications  
-- 🤖 AI & Machine Learning  
+I enjoy transforming ideas into functional digital solutions using **modern development tools**, and I continuously work on improving my problem-solving and engineering skills.
+
+My focus areas include:
+- Full-stack application development  
+- Mobile app development using Flutter  
+- Artificial Intelligence & Machine Learning fundamentals  
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧩 Core Skills & Expertise
 
-### 📱 Flutter & Mobile
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-</p>
+### 📱 Mobile Development
+- Flutter  
+- Dart  
+- UI/UX focused mobile design  
 
 ### 🌐 Web Development
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-</p>
+- HTML5, CSS3  
+- JavaScript (ES6+)  
+- React  
+- Responsive & component-based design  
 
-### 🤖 AI & Machine Learning
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-4CAF50?style=flat"/>
-</p>
+### 🤖 Artificial Intelligence
+- Machine Learning concepts  
+- Computer Vision basics  
+- Model understanding & experimentation  
 
-### 🧰 Tools & Platforms
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-</p>
+### 🛠️ Tools & Platforms
+- Git & GitHub  
+- Firebase  
+- REST APIs  
+- VS Code  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-- 💼 **Invoice SaaS System**  
-- 💸 **Expense Tracker App**  
-- 🏫 **School Management System**  
-- 📱 **Flutter UI Projects**
+### 💼 Invoice SaaS System  
+A web-based invoicing platform focused on clean UI and efficient workflow management.
+
+### 💸 Expense Tracker Application  
+A personal finance tracking app with category-based expense management.
+
+### 🏫 School Management System  
+A structured system for managing students, staff, and academic records.
+
+### 📱 Flutter UI Projects  
+Multiple Flutter projects focusing on modern UI, clean navigation, and performance.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maryam-ca&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maryam-ca&show_icons=true&hide_title=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -85,17 +82,18 @@ I love building useful applications, exploring new technologies, and improving m
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-- 📧 **Email:** minhas1405@gmail.com  
-- 🔗 **GitHub:** https://github.com/maryam-ca  
+- 📧 Email: **minhas1405@gmail.com**  
+- 💼 GitHub: https://github.com/maryam-ca  
 
 ---
 
 <div align="center">
 
-✨ *Always learning. Always growing.* ✨  
+✨ *Focused on learning, building, and growing as a software engineer.* ✨  
 
-<img src="https://komarev.com/ghpvc/?username=maryam-ca&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=maryam-ca&color=58A6FF"/>
 
 </div>
+
