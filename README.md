@@ -2,18 +2,17 @@
 
 ---
 
-## 👩‍💻 Professional Summary
+## 👩‍💻 About Me
 
-I am **Maryam Fatima**, a **Software Engineering student** with a strong interest in  
-building **real-world applications**, writing **clean code**, and exploring  
-**Artificial Intelligence & Machine Learning**.
+I am **Maryam Fatima**, a **Software Engineering student** with a strong passion for  
+building **clean, practical, and user-focused software applications**.
 
-I focus on practical development, continuous learning, and improving my  
-problem-solving and engineering mindset.
+I enjoy working on real-world projects, learning modern technologies,  
+and continuously improving my development and problem-solving skills.
 
 ---
 
-## 🎯 Core Specializations
+## 🎯 Areas of Focus
 
 - 📱 Flutter Mobile Application Development  
 - 🌐 Frontend Web Development  
@@ -24,21 +23,21 @@ problem-solving and engineering mindset.
 
 ## 🛠️ Technical Skills
 
-**Mobile Development**  
+**Mobile Development**
 - Flutter  
 - Dart  
 
-**Web Development**  
+**Web Development**
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
 - React  
 
-**AI & ML**  
-- Machine Learning Concepts  
-- Computer Vision Basics  
+**AI & Machine Learning**
+- Machine Learning concepts  
+- Computer Vision basics  
 
-**Tools & Platforms**  
+**Tools & Platforms**
 - Git & GitHub  
 - Firebase  
 - REST APIs  
@@ -46,69 +45,55 @@ problem-solving and engineering mindset.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 <p align="center">
 <a href="https://github.com/maryam-ca/invoice-saas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=maryam-ca&repo=invoice-saas&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=maryam-ca&repo=invoice-saas&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/maryam-ca/expense_tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=maryam-ca&repo=expense_tracker&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=maryam-ca&repo=expense_tracker&theme=tokyonight&hide_border=true"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/maryam-ca/School-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=maryam-ca&repo=School-Management-System&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=maryam-ca&repo=School-Management-System&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/maryam-ca">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=maryam-ca&repo=flutter-ui-projects&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=maryam-ca&repo=flutter-ui-projects&theme=tokyonight&hide_border=true"/>
 </a>
 </p>
 
 ---
 
-## 📚 Learning & Experience Timeline
-
-- **2023 – Present**  
-  BS Software Engineering  
-  Focus on programming fundamentals, software development, and AI basics.
-
-- **2024 – Present**  
-  Hands-on project development using Flutter and Web technologies.
-
-- **Ongoing**  
-  Learning Artificial Intelligence, Machine Learning concepts, and modern tools.
-
----
-
-## 📜 Certifications & Learning
-
-- Flutter Development (Self-learning & practice projects)  
-- Web Development Fundamentals  
-- Machine Learning Basics (Online resources & projects)  
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maryam-ca&show_icons=true&hide_title=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maryam-ca&show_icons=true&hide_border=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ca&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ca&hide_border=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-ca&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-ca&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Contact & Links
+## 📚 Learning & Growth
+
+- BS Software Engineering (Ongoing)  
+- Hands-on project development using Flutter & Web technologies  
+- Continuous learning in AI & Machine Learning  
+
+---
+
+## 📫 Contact
 
 - 📧 Email: **minhas1405@gmail.com**  
 - 💼 GitHub: https://github.com/maryam-ca  
@@ -117,8 +102,9 @@ problem-solving and engineering mindset.
 
 <div align="center">
 
-✨ *Focused on learning, building, and becoming a better software engineer every day.* ✨  
+✨ *Learning consistently. Building confidently.* ✨  
 
 <img src="https://komarev.com/ghpvc/?username=maryam-ca&color=58A6FF"/>
 
 </div>
+
