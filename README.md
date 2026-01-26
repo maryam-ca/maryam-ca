@@ -101,7 +101,7 @@ and I continuously work on improving my **problem-solving** and **development sk
 
 ## 📫 Contact
 
-- 📧 Email: **minhas1405@gmail.com**  
+- 📧 Email: **mminhas1405@gmail.com**  
 - 💼 GitHub: https://github.com/maryam-ca  
 
 ---
