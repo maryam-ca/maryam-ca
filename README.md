@@ -54,30 +54,37 @@ and I continuously work on improving my **problem-solving** and **development sk
   <img src="https://skillicons.dev/icons?i=flutter,firebase" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/State%20Management-0d1117?style=for-the-badge"/>
-</p>
-
 ---
 
 <h3 align="center">AI & Machine Learning (Foundations)</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-0d1117?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ Tech Playground
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,spring,flutter" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Development-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database%20Design-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Programming-0d1117?style=for-the-badge"/>
 </p>
 
 ---
 
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF"/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux" />
 </p>
 
 ---
@@ -125,8 +132,8 @@ and I continuously work on improving my **problem-solving** and **development sk
 ## 📚 Learning & Growth
 
 - BS Software Engineering (Ongoing)  
-- Flutter & Frontend Web Development (Hands-on Projects)  
-- Exploring Artificial Intelligence & Machine Learning  
+- Flutter, Frontend & Backend Development  
+- Exploring Databases, Spring Boot & System Design  
 
 ---
 
