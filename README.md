@@ -21,7 +21,7 @@ and I continuously work on improving my **problem-solving** and **development sk
 ## 🎯 Focus Areas
 
 - 📱 Flutter Mobile Application Development  
-- 🌐 Full stack Web Development  
+- 🌐 Frontend & Full Stack Web Development  
 - 🤖 Artificial Intelligence (Foundations)  
 - 🧠 Logical & Problem-Solving Skills  
 
@@ -31,61 +31,53 @@ and I continuously work on improving my **problem-solving** and **development sk
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,js,dart" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,dart,html,css" />
 </p>
 
 ---
 
-<h3 align="center">ML / AI Frameworks & Libraries</h3>
+<h3 align="center">Frontend & Web Technologies</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=xgboost&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/LightGBM-0d1117?style=for-the-badge"/>
-</p>
-
----
-
-<h3 align="center">Additional ML Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CNN-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RNN-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LSTM-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Modern%20UI%2FUX-0d1117?style=for-the-badge"/>
 </p>
 
 ---
 
-<h3 align="center">DevOps & Cloud</h3>
+<h3 align="center">Mobile App Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/State%20Management-0d1117?style=for-the-badge"/>
 </p>
 
 ---
 
-<h3 align="center">MLOps & Databases</h3>
+<h3 align="center">AI & Machine Learning (Foundations)</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DVC-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Airflow-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prometheus-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Grafana-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-0d1117?style=for-the-badge"/>
+</p>
+
+---
+
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF"/>
 </p>
 
 ---
@@ -133,8 +125,8 @@ and I continuously work on improving my **problem-solving** and **development sk
 ## 📚 Learning & Growth
 
 - BS Software Engineering (Ongoing)  
-- Hands-on development with Flutter & Web technologies  
-- Continuous learning in Artificial Intelligence & Machine Learning  
+- Flutter & Frontend Web Development (Hands-on Projects)  
+- Exploring Artificial Intelligence & Machine Learning  
 
 ---
 
