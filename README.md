@@ -27,6 +27,8 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 <hr/>
 
 ### 💻 Frontend Development
+**HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React, Next.js, React Native, Context API**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nextjs" />
 </p>
@@ -39,6 +41,8 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 <hr/>
 
 ### ⚙️ Backend Development
+**Node.js, Express.js, FastAPI, Python, Django**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
 </p>
@@ -50,6 +54,8 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 <hr/>
 
 ### 🗄️ Databases & Backend Services
+**MongoDB, Firebase, PostgreSQL, Swagger (API Documentation)**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres" />
 </p>
@@ -61,6 +67,8 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 <hr/>
 
 ### 🔧 Version Control & Collaboration
+**Git, GitHub**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
@@ -68,6 +76,8 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 <hr/>
 
 ### 🚀 Deployment & Hosting
+**Vercel, Netlify**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
