@@ -30,7 +30,7 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 **HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React, Next.js, React Native, Context API**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nextjs" />
+  <img src="[https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nextjs](https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nextjs,figma)" />
 </p>
 
 <p align="center">
