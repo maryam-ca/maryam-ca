@@ -44,7 +44,7 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 **Node.js, Express.js, FastAPI, Python, Django**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" />
 </p>
 
 <p align="center">
