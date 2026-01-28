@@ -26,57 +26,50 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 
 <hr/>
 
-<h3 align="center">Languages</h3>
+### 💻 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,dart,html,css,java,kotlin,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nextjs" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Context%20API-0d1117?style=for-the-badge"/>
 </p>
 
 <hr/>
 
-<h3 align="center">Frontend & Web Technologies</h3>
+### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Modern%20UI%2FUX-0d1117?style=for-the-badge"/>
-</p>
-
-<hr/>
-
-<h3 align="center">Mobile App Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge"/>
 </p>
 
 <hr/>
 
-<h3 align="center">AI & Machine Learning (Foundations)</h3>
+### 🗄️ Databases & Backend Services
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-0d1117?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swagger%20(API%20Documentation)-0d1117?style=for-the-badge"/>
 </p>
 
 <hr/>
 
-<h3 align="center">Backend • Databases • Systems (Playground)</h3>
+### 🔧 Version Control & Collaboration
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,git,linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Development-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database%20Design-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Programming-0d1117?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 <hr/>
 
-<h3 align="center">Tools & Platforms</h3>
+### 🚀 Deployment & Hosting
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 
 ---
