@@ -30,12 +30,12 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 **HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React, Next.js, React Native, Context API**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nextjs,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nextjs" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Context%20API-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React%20Native-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Context%20API-0d1117?style=for-the-badge"/>
 </p>
 
 <hr/>
@@ -44,7 +44,11 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 **Node.js, Express.js, FastAPI, Python, Django**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge"/>
 </p>
 
 <hr/>
@@ -53,11 +57,11 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 **MongoDB, Firebase, PostgreSQL, Swagger (API Documentation)**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Swagger%20(API%20Documentation)-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Swagger%20(API%20Documentation)-0d1117?style=for-the-badge"/>
 </p>
 
 <hr/>
@@ -66,7 +70,7 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 **Git, GitHub**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 <hr/>
@@ -75,7 +79,7 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 **Vercel, Netlify**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </p>
 
 ---
@@ -106,17 +110,17 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 
 ## 📊 GitHub Overview
 
-<!-- 🔥 MOST USED LANGUAGES (NOW AT TOP) -->
+<!-- 🔥 STREAKS (ABOVE LANGUAGES) -->
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ca&hide_border=true&theme=tokyonight"/>
+</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-ca&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=maryam-ca&show_icons=true&hide_border=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ca&hide_border=true&theme=tokyonight"/>
 </p>
 
 ---
