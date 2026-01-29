@@ -30,7 +30,7 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 **HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React, Next.js, React Native, Context API**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,nextjs,figma" />
 </p>
 
 <p align="center">
@@ -45,10 +45,6 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge"/>
 </p>
 
 <hr/>
@@ -110,16 +106,17 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 
 ## 📊 GitHub Overview
 
+<!-- 🔥 MOST USED LANGUAGES (NOW AT TOP) -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-ca&layout=compact&hide_border=true&theme=tokyonight"/>
+</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=maryam-ca&show_icons=true&hide_border=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ca&hide_border=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-ca&layout=compact&hide_border=true&theme=tokyonight"/>
 </p>
 
 ---
