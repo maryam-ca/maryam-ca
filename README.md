@@ -105,24 +105,26 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 </p>
 
 ---
-
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=maryam-ca&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-ca&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-ca&layout=compact&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-ca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=maryam-ca&show_icons=true&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=maryam-ca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats"
   />
 </p>
 
