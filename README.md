@@ -94,15 +94,6 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/maryam-ca/School-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryam-ca&repo=School-Management-System&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/maryam-ca/flutter-ui-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryam-ca&repo=flutter-ui-projects&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 ---
 ## 📊 GitHub Overview
