@@ -82,20 +82,6 @@ I am **Maryam Fatima**, a **Software Engineering student** passionate about buil
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/maryam-ca/invoice-saas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryam-ca&repo=invoice-saas&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/maryam-ca/expense_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maryam-ca&repo=expense_tracker&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-
----
 ## 📊 GitHub Overview
 
 <p align="center">
