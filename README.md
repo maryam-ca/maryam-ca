@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Maryam%20Fatima&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%7C%20Flutter%20%7C%20Web%20%7C%20AI&descFontSize=17&descAlignY=64&descAlign=50&animation=twinkling&stroke=58A6FF&strokeWidth=2" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Passionate+Software+Engineering+Student+%F0%9F%8E%93;Flutter+Mobile+Developer+%F0%9F%93%B1;Frontend+%26+Web+Developer+%F0%9F%8C%90;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+Real-World+Solutions+%F0%9F%9A%80" />
 <br/>
-Show Image
+[Show Image](https://komarev.com/ghpvc/?username=maryam-ca&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
  
 Show Image
  
@@ -31,10 +31,8 @@ clean, user-focused, and real-world software solutions.
 📱 Mobile Development🌐 Frontend & Web🤖 Artificial IntelligenceFlutter · React NativeReact · Next.js · TypeScriptFoundations & ToolsCross-Platform AppsResponsive UI/UXML ConceptsDart · State ManagementTailwind · BootstrapPython for AI
 </div>
 
-🧰 Tech Stack & 🛠️ Tech Playground
-
+🧰 Tech Stack
 💻 Frontend Development
-HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React, Next.js, React Native, Context API
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs&theme=dark&perline=8" />
 </p>
@@ -45,19 +43,16 @@ HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React, Next.js, Re
 </p>
 
 📱 Mobile Development
-Flutter · Dart
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
 </p>
 
 ⚙️ Backend Development
-Node.js, Express.js, FastAPI, Python, Django
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi&theme=dark&perline=5" />
 </p>
 
 🗄️ Databases & Backend Services
-MongoDB, Firebase, PostgreSQL, Swagger
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres&theme=dark" />
 </p>
@@ -66,13 +61,11 @@ MongoDB, Firebase, PostgreSQL, Swagger
 </p>
 
 🔧 Version Control & Collaboration
-Git, GitHub
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 </p>
 
 🚀 Deployment & Hosting
-Vercel, Netlify
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" />
 </p>
@@ -101,7 +94,11 @@ Vercel, Netlify
 📫 Contact
 <div align="center">
 Show Image
-  
+ 
+Show Image
+ 
+Show Image
+ 
 Show Image
 </div>
 
