@@ -54,7 +54,6 @@ clean, user-focused, and real-world software solutions.
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend Development
-<div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -70,7 +69,6 @@ clean, user-focused, and real-world software solutions.
 ---
 
 ### 📱 Mobile Development
-<div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -83,7 +81,6 @@ clean, user-focused, and real-world software solutions.
 ---
 
 ### ⚙️ Backend Development
-<div align="center">
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -100,7 +97,6 @@ clean, user-focused, and real-world software solutions.
 ---
 
 ### 🗄️ Databases & Backend Services
-<div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -116,7 +112,6 @@ clean, user-focused, and real-world software solutions.
 ---
 
 ### 🔧 Version Control & Collaboration
-<div align="center">
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -129,7 +124,6 @@ clean, user-focused, and real-world software solutions.
 ---
 
 ### 🚀 Deployment & Hosting
-<div align="center">
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -142,7 +136,6 @@ clean, user-focused, and real-world software solutions.
 ---
 
 ### 🧠 AI & ML (Exploring)
-<div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -162,7 +155,6 @@ clean, user-focused, and real-world software solutions.
 ---
 
 ### 📊 Additional Tools & Platforms
-<div align="center">
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -172,20 +164,6 @@ clean, user-focused, and real-world software solutions.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 </div>
 
----
-
-### 📱 APIs & Integration
-<div align="center">
-
-![REST API](https://img.shields.io/badge/REST-API-%2300599C.svg?style=for-the-badge&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-API-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-2.0-%23E34F26.svg?style=for-the-badge&logo=oauth&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![SendGrid](https://img.shields.io/badge/SendGrid-0A7CFF?style=for-the-badge&logo=sendgrid&logoColor=white)
-</div>
 
 ---
 
