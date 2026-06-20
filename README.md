@@ -228,6 +228,9 @@ clean, user-focused, and real-world software solutions.
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![SendGrid](https://img.shields.io/badge/SendGrid-0A7CFF?style=for-the-badge&logo=sendgrid&logoColor=white)
 </div>
+
+---
+
 ## 📊 GitHub Overview
 
 <div align="center">
@@ -275,6 +278,36 @@ clean, user-focused, and real-world software solutions.
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryam-ca)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://maryam-ca.vercel.app)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/maryam-ca)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@maryam-ca)
+&nbsp;
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/maryam-ca)
+
+</div>
+
+---
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🚀 Deployed new Flutter app to Play Store
+2. 🎯 Contributed to open-source project
+3. 📚 Started learning PyTorch for deep learning
+4. 🏗️ Built REST API with Django REST Framework
+5. 🎨 Designed UI/UX in Figma for upcoming project
+<!--END_SECTION:activity-->
+
+---
+
+## 💰 Support
+
+<div align="center">
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maryam-ca)
+&nbsp;
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/maryam-ca)
 
 </div>
 
@@ -289,6 +322,6 @@ clean, user-focused, and real-world software solutions.
 
 <br/>
 
-![Wave](https://img.shields.io/badge/Thanks%20for%20visiting!-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+connect+and+create+something+amazing!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
