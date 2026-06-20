@@ -64,7 +64,6 @@ clean, user-focused, and real-world software solutions.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </div>
 
@@ -206,14 +205,6 @@ clean, user-focused, and real-world software solutions.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryam-ca&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&hide_border=true&radius=8" />
 
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maryam-ca&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" />
 </div>
 
 ---
