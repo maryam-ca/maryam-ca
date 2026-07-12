@@ -19,29 +19,29 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
 I am **Maryam Fatima**, a Software Engineering student passionate about building
 clean, user-focused, and real-world software solutions.
 
-- 🎓 Studying **Software Engineering**
-- 💡 I love turning **ideas into working products**
-- 🌱 Currently deepening skills in **AI & Machine Learning**
-- ✨ Believer in **clean code** and **great UX**
-- 🤝 Always open to **collaborations** and **new projects**
-- ⚡ Fun fact: I debug with `print()` and I'm proud of it
+-  Studying **Software Engineering**
+-  I love turning **ideas into working products**
+-  Currently deepening skills in **AI & Machine Learning**
+-  Believer in **clean code** and **great UX**
+-  Always open to **collaborations** and **new projects**
+-  Fun fact: I debug with `print()` and I'm proud of it
 
 <br clear="right"/>
 
 ---
 
-## 🎯 Focus Areas
+##  Focus Areas
 
 <div align="center">
 
-| 📱 Mobile Development | 🌐 Frontend & Web | 🤖 Artificial Intelligence |
+|  Mobile Development |  Frontend & Web |  Artificial Intelligence |
 |:---:|:---:|:---:|
 | Flutter · React Native | React · Next.js · TypeScript | Foundations & Tools |
 | Cross-Platform Apps | Responsive UI/UX | ML Concepts |
@@ -51,9 +51,9 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Frontend Development
+###  Frontend Development
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -68,7 +68,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-### 📱 Mobile Development
+###  Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -80,7 +80,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-### ⚙️ Backend Development
+###  Backend Development
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -96,7 +96,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-### 🗄️ Databases & Backend Services
+###  Databases & Backend Services
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -111,7 +111,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-### 🔧 Version Control & Collaboration
+###  Version Control & Collaboration
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -123,7 +123,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-### 🚀 Deployment & Hosting
+###  Deployment & Hosting
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -135,7 +135,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-### 🧠 AI & ML (Exploring)
+###  AI & ML (Exploring)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -154,7 +154,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-### 📊 Additional Tools & Platforms
+###  Additional Tools & Platforms
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -167,7 +167,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-## 📊 GitHub Overview
+##  GitHub Overview
 
 <div align="center">
 
@@ -187,7 +187,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-## 💬 Dev Quote of the Day
+##  Dev Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
@@ -195,7 +195,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 <div align="center">
 
@@ -217,19 +217,19 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-## 📈 Recent Activity
+##  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Deployed new Flutter app to Play Store
-2. 🎯 Contributed to open-source project
-3. 📚 Started learning PyTorch for deep learning
-4. 🏗️ Built REST API with Django REST Framework
-5. 🎨 Designed UI/UX in Figma for upcoming project
+1.  Deployed new Flutter app to Play Store
+2.  Contributed to open-source project
+3.  Started learning PyTorch for deep learning
+4.  Built REST API with Django REST Framework
+5.  Designed UI/UX in Figma for upcoming project
 <!--END_SECTION:activity-->
 
 ---
 
-## 💰 Support
+##  Support
 
 <div align="center">
 
@@ -245,7 +245,7 @@ clean, user-focused, and real-world software solutions.
 <div align="center">
 
 
-**✨ Learning every day. Building with purpose. ✨**
+** Learning every day. Building with purpose. **
 
 <br/>
 
