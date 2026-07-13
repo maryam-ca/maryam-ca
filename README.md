@@ -213,8 +213,9 @@ clean, user-focused, and real-world software solutions.
 <td align="center">
 <img src="https://skillicons.dev/icons?i=sklearn" width="45"/><br><b>Scikit-Learn</b>
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=numpy" width="45"/><br><b>NumPy</b>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br>
+<b>NumPy</b>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=anaconda" width="45"/><br><b>Jupyter</b>
@@ -225,7 +226,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 
 <table>
 <tr>
