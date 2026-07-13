@@ -71,9 +71,6 @@ clean, user-focused, and real-world software solutions.
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=ts" width="45"/><br><b>TypeScript</b>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=react" width="45"/><br><b>React</b>
 </td>
@@ -87,6 +84,8 @@ clean, user-focused, and real-world software solutions.
 <img src="https://skillicons.dev/icons?i=figma" width="45"/><br><b>Figma</b>
 </td>
 </tr>
+
+
 </table>
 
 ---
