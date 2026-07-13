@@ -145,9 +145,6 @@ clean, user-focused, and real-world software solutions.
 </td>
 </tr>
 
-<tr>
-
-</tr>
 </table>
 
 ---
