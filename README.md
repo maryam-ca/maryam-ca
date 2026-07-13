@@ -137,15 +137,16 @@ clean, user-focused, and real-world software solutions.
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=django" width="45"/><br><b>Django</b>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br><b>FastAPI</b>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=flask" width="45"/><br><b>Flask</b>
 </td>
+</tr>
+
+<tr>
+
 </tr>
 </table>
 
