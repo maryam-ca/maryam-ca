@@ -107,9 +107,6 @@ clean, user-focused, and real-world software solutions.
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=swift" width="45"/><br><b>Swift</b>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=androidstudio" width="45"/><br><b>Android Studio</b>
 </td>
@@ -117,6 +114,8 @@ clean, user-focused, and real-world software solutions.
 <img src="https://skillicons.dev/icons?i=react" width="45"/><br><b>React Native</b>
 </td>
 </tr>
+
+
 </table>
 
 ---
