@@ -163,9 +163,6 @@ clean, user-focused, and real-world software solutions.
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br><b>MySQL</b>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=sqlite" width="45"/><br><b>SQLite</b>
 </td>
@@ -179,6 +176,8 @@ clean, user-focused, and real-world software solutions.
 <img src="https://skillicons.dev/icons?i=postman" width="45"/><br><b>Postman</b>
 </td>
 </tr>
+
+
 </table>
 
 ---
@@ -199,9 +198,6 @@ clean, user-focused, and real-world software solutions.
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=opencv" width="45"/><br><b>OpenCV</b>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=sklearn" width="45"/><br><b>Scikit-Learn</b>
 </td>
@@ -213,6 +209,8 @@ clean, user-focused, and real-world software solutions.
 <img src="https://skillicons.dev/icons?i=anaconda" width="45"/><br><b>Jupyter</b>
 </td>
 </tr>
+
+
 </table>
 
 ---
