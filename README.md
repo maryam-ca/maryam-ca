@@ -51,11 +51,11 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend Development
+###  Frontend Development
 
 <table>
 <tr>
@@ -91,7 +91,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-### 📱 Mobile Development
+###  Mobile Development
 
 <table>
 <tr>
@@ -123,7 +123,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-### ⚙️ Backend Development
+###  Backend Development
 
 <table>
 <tr>
@@ -155,7 +155,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-### 🗄️ Database & Cloud
+###  Database & Cloud
 
 <table>
 <tr>
@@ -191,7 +191,7 @@ clean, user-focused, and real-world software solutions.
 
 ---
 
-### 🤖 AI / Machine Learning
+###  AI / Machine Learning
 
 <table>
 <tr>
@@ -268,11 +268,7 @@ clean, user-focused, and real-world software solutions.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maryam-ca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&border_radius=12&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-ca&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=12&langs_count=8" />
 
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=maryam-ca&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa64d&currStreakLabel=58a6ff&border_radius=12" />
 
