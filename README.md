@@ -231,9 +231,6 @@ clean, user-focused, and real-world software solutions.
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=docker" width="45"/><br><b>Docker</b>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=vercel" width="45"/><br><b>Vercel</b>
 </td>
@@ -247,6 +244,7 @@ clean, user-focused, and real-world software solutions.
 <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br><b>VS Code</b>
 </td>
 </tr>
+
 </table>
 
 </div>
