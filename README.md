@@ -116,8 +116,6 @@ clean, user-focused, and real-world software solutions.
 <td align="center">
 <img src="https://skillicons.dev/icons?i=react" width="45"/><br><b>React Native</b>
 </td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -148,8 +146,6 @@ clean, user-focused, and real-world software solutions.
 <td align="center">
 <img src="https://skillicons.dev/icons?i=flask" width="45"/><br><b>Flask</b>
 </td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
@@ -220,7 +216,6 @@ clean, user-focused, and real-world software solutions.
 <td align="center">
 <img src="https://skillicons.dev/icons?i=anaconda" width="45"/><br><b>Jupyter</b>
 </td>
-<td></td>
 </tr>
 </table>
 
