@@ -1,4 +1,4 @@
-<!-- ===== HEADER BANNER ===== -->
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/3311b521-4195-4086-814e-c540f12b7060" /><!-- ===== HEADER BANNER ===== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Maryam%20Fatima&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%7C%20Flutter%20%7C%20Web%20%7C%20AI&descFontSize=17&descAlignY=64&descAlign=50&animation=twinkling&stroke=58A6FF&strokeWidth=2" />
@@ -285,7 +285,7 @@ clean, user-focused, and real-world software solutions.
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryam-ca)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://maryam-ca.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)]([https://maryam-ca.vercel.app](https://vercel.com/maryams-projects-791bda4b/portfolio))
 &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/maryam-ca)
 &nbsp;
