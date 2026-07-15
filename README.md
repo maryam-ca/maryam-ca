@@ -1,5 +1,4 @@
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/3311b521-4195-4086-814e-c540f12b7060" /><!-- ===== HEADER BANNER ===== -->
-<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Maryam%20Fatima&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%7C%20Flutter%20%7C%20Web%20%7C%20AI&descFontSize=17&descAlignY=64&descAlign=50&animation=twinkling&stroke=58A6FF&strokeWidth=2" />
 
